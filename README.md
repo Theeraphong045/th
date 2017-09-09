@@ -1,9 +1,12 @@
-# oneclick-pritunl
+# pritunl
 
 ______________________________________________
 **VPN ** Pritunl
 
-#ต้นฉบับ
+
+
+# ต้นฉบับ 
+# Theeraphong Sutthakan
 
 www.pritunl.com
 
